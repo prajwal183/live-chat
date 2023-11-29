@@ -1,0 +1,19 @@
+{
+  "name": "live-chat",
+  "version": "1.0.0",
+  "description": "A chat application using web sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwal183/live-chat.git"
+  },
+  "author": "prajwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajwal183/live-chat/issues"
+  },
+  "homepage": "https://github.com/prajwal183/live-chat#readme"
+}
